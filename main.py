@@ -35,5 +35,5 @@ print(round(1.5))
 print(round(2.5))
 print(round(2.6))
 print(round(4.7))
-#print(''' hello ,welcome to miracle code 
-#here we learn pyton programing from scrach ''')
+print(''' hello ,welcome to miracle code 
+here we learn pyton programing from scrach ''')
