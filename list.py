@@ -34,6 +34,6 @@ list = [1,2,3,4,55,10]
 list.reverse()
 print(list)
 list.sort()
-print(list)
+# print(list)
 
 
